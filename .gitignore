@@ -5,7 +5,7 @@ __pycache__/
 *.pyc
 *.py~
 
-# Distribution / packagingg
+# Distribution / packaging
 .Python
 develop-eggs/
 dist/
